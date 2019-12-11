@@ -2,7 +2,8 @@
 
 menu:
   主页: /
-  日记: /categories/日记/
+  记忆: /categories/记忆胶囊/
+  思想: /categories/思想胶囊/
 
 # SubNav
 subnav:
