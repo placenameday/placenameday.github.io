@@ -7,6 +7,8 @@ categories:
 - 记忆胶囊
 ---
 我最帅
-![](https://raw.githubusercontent.com/placenameday/mypic/master/20200114091024.jpeg)
+![](https://raw.githubusercontent.com/placenameday/mypic/master/20200114091024.jpeg)   
+   
+![](https://raw.githubusercontent.com/placenameday/mypic/master/20200114111657.jpeg)
 
 <!-- more -->
